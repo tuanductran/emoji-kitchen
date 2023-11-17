@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "axios": "^1.5.0",
-    "axios-retry": "^3.8.0",
+    "axios-retry": "^3.9.1",
     "p-limit": "^4.0.0"
   }
 }
