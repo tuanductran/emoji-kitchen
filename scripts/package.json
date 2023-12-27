@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "axios": "^1.6.2",
+    "axios": "^1.6.3",
     "axios-retry": "^3.8.0",
     "p-limit": "^5.0.0"
   }
